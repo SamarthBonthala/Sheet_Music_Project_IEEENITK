@@ -14,6 +14,9 @@ Objectives
 To develop an automated system to interpret sheet music to aid beginners, teachers and visually impaired individuals to read and play music.
 
 Contributors:
+
 Anirudh Sundar, Pre-final year ECE Student
+
 Ashwin Hebbar, Pre-final year ECE Student
+
 Samarth Bonthala, Final year ECE Student
