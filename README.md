@@ -1,6 +1,7 @@
-# Sheet_Music_IEEE_SPS
+# Sheet_Music_Project_IEEENITK
 IEEE NITK Signal Processing Society
 Project Name: Optical Music Recognition
+Academic Year: 2018-2019
 
 Abstract
 
@@ -12,4 +13,7 @@ Objectives
 
 To develop an automated system to interpret sheet music to aid beginners, teachers and visually impaired individuals to read and play music.
 
-
+Contributors:
+Anirudh Sundar, Pre-final year ECE Student
+Ashwin Hebbar, Pre-final year ECE Student
+Samarth Bonthala, Final year ECE Student
