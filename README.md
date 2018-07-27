@@ -1,8 +1,6 @@
-# README file: IEEE_NITK SPS Sheet Vision
+# IEEE_NITK SPS Projects 2018-2019
 
 ## Project Name: Optical Music Recognition
-
-### Academic Year: 2018-2019
 
 ### Abstract
 
