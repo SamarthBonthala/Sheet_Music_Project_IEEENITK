@@ -18,4 +18,7 @@ Anirudh Sundar, Pre-final year ECE Student
 
 Ashwin Hebbar, Pre-final year ECE Student
 
+Sahith S R, Sophomore ECE Student
+
 Samarth Bonthala, Final year ECE Student
+
