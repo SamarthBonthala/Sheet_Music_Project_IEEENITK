@@ -1,4 +1,4 @@
-# IEEE_NITK SPS Projects 2018-2019
+# IEEE NITK SPS Projects 2018-2019
 
 ## Project Name: Optical Music Recognition
 
